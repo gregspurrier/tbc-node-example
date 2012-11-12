@@ -1,5 +1,5 @@
-(ns tbc-demo.github
-  (:require [tbc-demo.https :as https]
+(ns tbc-node-example.github
+  (:require [tbc-node-example.https :as https]
             [clojure.string :as str])
   (:require-macros [to-be-continued.macros :as tbc]))
 

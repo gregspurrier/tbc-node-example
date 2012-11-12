@@ -1,4 +1,4 @@
-(ns tbc-demo.https
+(ns tbc-node-example.https
   (:require [cljs.nodejs :as node])
   (:require-macros [to-be-continued.macros :as tbc]))
 

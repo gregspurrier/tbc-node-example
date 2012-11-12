@@ -1,5 +1,5 @@
-(ns tbc-demo.main
-  (:require [tbc-demo.github :as gh]
+(ns tbc-node-example.main
+  (:require [tbc-node-example.github :as gh]
             [to-be-continued.fns :as tbc-fns]
             [clojure.string :as str])
   (:require-macros [to-be-continued.macros :as tbc]))
